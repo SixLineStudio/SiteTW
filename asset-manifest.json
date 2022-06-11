@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f99595a4.css",
+    "main.js": "/static/js/main.39b31416.js",
+    "static/media/Screenshot5.png": "/static/media/Screenshot5.6fa1bf69553fb6d8d7fd.png",
+    "static/media/Screenshot16.png": "/static/media/Screenshot16.7bee1f85cade368c59f3.png",
+    "static/media/Screenshot12.png": "/static/media/Screenshot12.5bb42ab29fa3b922091f.png",
+    "static/media/Screenshot15.png": "/static/media/Screenshot15.e1078cda855ccf7b183e.png",
+    "static/media/Screenshot7.png": "/static/media/Screenshot7.f41c5b1f550c6fde5eeb.png",
+    "static/media/Screenshot11.png": "/static/media/Screenshot11.3844fb299c96dc12fca9.png",
+    "static/media/Screenshot4.png": "/static/media/Screenshot4.38ccd7866613b8128e53.png",
+    "static/media/Screenshot1.png": "/static/media/Screenshot1.dd815818d4beb2c47ca0.png",
+    "static/media/Screenshot9.png": "/static/media/Screenshot9.d34e8db1c3285a87f95f.png",
+    "static/media/Screenshot17.png": "/static/media/Screenshot17.e7edc45ffd08132b1179.png",
+    "static/media/Screenshot3.png": "/static/media/Screenshot3.e4534e31c39c757ca387.png",
+    "static/media/Screenshot14.png": "/static/media/Screenshot14.1627453b700910b571bc.png",
+    "static/media/Screenshot8.png": "/static/media/Screenshot8.6c613e6a3b8c7d654d9d.png",
+    "index.html": "/index.html",
+    "main.f99595a4.css.map": "/static/css/main.f99595a4.css.map",
+    "main.39b31416.js.map": "/static/js/main.39b31416.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f99595a4.css",
+    "static/js/main.39b31416.js"
+  ]
+}
